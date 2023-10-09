@@ -1,0 +1,19 @@
+          
+          Test Case for Middle in Linked List
+
+1. 
+   - Input: head = [1, 2, 3, 4, 5]
+   - Output: [3, 4, 5]
+   
+2. 
+   - Input: head = [1, 2, 3, 4]
+   - Output: [3, 4]
+   
+3. 
+   - Input: head = [1]
+   - Expected Output: [1]
+   
+4. 
+   - Input: head = [1, 2]
+   - Output: [2]
+  

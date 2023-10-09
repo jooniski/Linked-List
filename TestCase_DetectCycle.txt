@@ -1,0 +1,26 @@
+  Test Case for Detect Cycle in Linked List
+
+1. 
+   - Input: head = [3, 2, 0, -4], pos = 1
+   - Output: true
+   
+2. 
+   - Input: head = [1, 2, 3, 4, 5], pos = -1
+   - Output: false
+
+3. 
+   - Input: head = [1], pos = 0
+   - Output: true
+   
+4. 
+   - Input: head = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], pos = 6
+   - Output: true
+   
+5. 
+   - Input: head = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], pos = -1
+   - Output: false
+ 
+6. Test Case: Empty Linked List
+   - Input: head = [], pos = -1
+   - Output: false
+  
