@@ -1,0 +1,37 @@
+
+   Test Case for Intersection of two Linked List
+
+1. 
+   - Input: 
+        intersectVal = 1,
+        listA = [1, 2, 3],
+        listB = [1, 2, 3],
+        skipA = 0, skipB = 0
+   - Output: 1
+
+2. 
+   - Input: 
+        intersectVal = 5,
+        listA = [1, 2, 3, 4, 5], 
+        listB = [6, 7, 8, 9, 5], 
+        skipA = 0, 
+        skipB = 0
+   - Output: 5
+
+3. 
+   - Input: 
+        intersectVal = 10, 
+        listA = [1, 2, 3, 4], 
+        listB = [5, 6, 7, 8], 
+        skipA = 0, 
+        skipB = 0
+   -  Output: null
+
+4. 
+   - Input: 
+        intersectVal = 3, 
+        listA = [1, 2, 3, 4, 5], 
+        listB = [6, 7, 8], 
+        skipA = 2, 
+        skipB = 0
+   - Output: 3
